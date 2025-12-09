@@ -1,0 +1,2 @@
+
+bash scripts/gen_code_dis_cross_rqvae_class_con.sh save_name Instruments

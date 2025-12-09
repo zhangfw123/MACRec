@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+deepspeed
+evaluate
+peft
+sentencepiece
+tqdm
+transformers
