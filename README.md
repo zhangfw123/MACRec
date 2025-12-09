@@ -1,4 +1,4 @@
-# Code for MACRec (AAAI 2026)
+# Code for MACRec (AAAI 2026 Oral)
 
 This repo is for source code of AAAI 2026 paper "Multi-Aspect Cross-modal Quantization for Generative Recommendation".
 
