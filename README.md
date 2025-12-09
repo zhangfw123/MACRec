@@ -7,7 +7,7 @@ This repo is for source code of AAAI 2026 paper "Multi-Aspect Cross-modal Quanti
 
 ```
 cd data
-python balance_kmeans.py
+python kmeans.py
 ```
 
 ### Training the Cross-modal Quantitative RQ-VAE
